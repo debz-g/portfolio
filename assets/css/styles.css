@@ -350,10 +350,10 @@ a.nav:hover{
   justify-self: center;
   width: 200px;
   height: 200px;
-  background: linear-gradient(180deg,
+/*   background: linear-gradient(180deg,
               hsla(var(--first-hue),var(--sat),var(--lig),1),
               hsla(var(--first-hue),var(--sat),var(--lig),.2)
-              );
+              ); */
   border-radius: 12rem;
   display: flex;
   align-items: center;
