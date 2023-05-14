@@ -22,6 +22,9 @@ button:focus {
   box-shadow: none !important;
 }
 
+.custom-brand {
+  color: purple;
+}
 /* --------- */
 /*  Preloader */
 /* --------- */
